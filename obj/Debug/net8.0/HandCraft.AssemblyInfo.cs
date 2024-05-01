@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HandCraft")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62445f529a4ce148a9701dadf0c5e8c39da2dac5")]
 [assembly: System.Reflection.AssemblyProductAttribute("HandCraft")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HandCraft")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

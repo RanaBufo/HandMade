@@ -1,10 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\HandCraft\\",
+  "WorkspaceRootPath": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F665119-8AC3-48BA-BB5D-951CE5C37F6D}|HandCraft.csproj|c:\\users\\pomaz\\documents\\github\\handmade\\handcraft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F665119-8AC3-48BA-BB5D-951CE5C37F6D}|HandCraft.csproj|c:\\users\\pomaz\\documents\\github\\handmade\\database\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F665119-8AC3-48BA-BB5D-951CE5C37F6D}|HandCraft.csproj|solutionrelative:database\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F665119-8AC3-48BA-BB5D-951CE5C37F6D}|HandCraft.csproj|c:\\users\\pomaz\\documents\\github\\handmade\\database\\product_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F665119-8AC3-48BA-BB5D-951CE5C37F6D}|HandCraft.csproj|solutionrelative:database\\product_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F665119-8AC3-48BA-BB5D-951CE5C37F6D}|HandCraft.csproj|c:\\users\\pomaz\\documents\\github\\handmade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F665119-8AC3-48BA-BB5D-951CE5C37F6D}|HandCraft.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F665119-8AC3-48BA-BB5D-951CE5C37F6D}|HandCraft.csproj|c:\\users\\pomaz\\documents\\github\\handmade\\database\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F665119-8AC3-48BA-BB5D-951CE5C37F6D}|HandCraft.csproj|solutionrelative:database\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F665119-8AC3-48BA-BB5D-951CE5C37F6D}|HandCraft.csproj|c:\\users\\pomaz\\documents\\github\\handmade\\database\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F665119-8AC3-48BA-BB5D-951CE5C37F6D}|HandCraft.csproj|solutionrelative:database\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F665119-8AC3-48BA-BB5D-951CE5C37F6D}|HandCraft.csproj|c:\\users\\pomaz\\documents\\github\\handmade\\database\\product_color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F665119-8AC3-48BA-BB5D-951CE5C37F6D}|HandCraft.csproj|solutionrelative:database\\product_color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F665119-8AC3-48BA-BB5D-951CE5C37F6D}|HandCraft.csproj|c:\\users\\pomaz\\documents\\github\\handmade\\database\\product_composition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F665119-8AC3-48BA-BB5D-951CE5C37F6D}|HandCraft.csproj|solutionrelative:database\\product_composition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +54,91 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product_Category.cs",
+              "DocumentMoniker": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\DataBase\\Product_Category.cs",
+              "RelativeDocumentMoniker": "DataBase\\Product_Category.cs",
+              "ToolTip": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\DataBase\\Product_Category.cs",
+              "RelativeToolTip": "DataBase\\Product_Category.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:40:08.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product_Composition.cs",
+              "DocumentMoniker": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\DataBase\\Product_Composition.cs",
+              "RelativeDocumentMoniker": "DataBase\\Product_Composition.cs",
+              "ToolTip": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\DataBase\\Product_Composition.cs",
+              "RelativeToolTip": "DataBase\\Product_Composition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:37:04.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product_Color.cs",
+              "DocumentMoniker": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\DataBase\\Product_Color.cs",
+              "RelativeDocumentMoniker": "DataBase\\Product_Color.cs",
+              "ToolTip": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\DataBase\\Product_Color.cs",
+              "RelativeToolTip": "DataBase\\Product_Color.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:34:31.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\DataBase\\Product.cs",
+              "RelativeDocumentMoniker": "DataBase\\Product.cs",
+              "ToolTip": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\DataBase\\Product.cs",
+              "RelativeToolTip": "DataBase\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:28:34.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDB.cs",
+              "DocumentMoniker": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\DataBase\\UserDB.cs",
+              "RelativeDocumentMoniker": "DataBase\\UserDB.cs",
+              "ToolTip": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\DataBase\\UserDB.cs",
+              "RelativeToolTip": "DataBase\\UserDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:24:30.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\DataBase\\Basket.cs",
+              "RelativeDocumentMoniker": "DataBase\\Basket.cs",
+              "ToolTip": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\DataBase\\Basket.cs",
+              "RelativeToolTip": "DataBase\\Basket.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:24:23.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\HandCraft\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\HandCraft\\Program.cs",
+              "ToolTip": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T16:42:41.617Z",
               "EditorCaption": ""

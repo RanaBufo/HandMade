@@ -105,11 +105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\HandCraft\\HandCraft.csproj",
+      "projectUniqueName": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\HandCraft.csproj",
       "projectName": "HandCraft",
-      "projectPath": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\HandCraft\\HandCraft.csproj",
+      "projectPath": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\HandCraft.csproj",
       "packagesPath": "C:\\Users\\pomaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\HandCraft\\obj\\",
+      "outputPath": "C:\\Users\\pomaz\\Documents\\GitHub\\HandMade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pomaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
